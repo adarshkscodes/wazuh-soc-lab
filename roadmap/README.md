@@ -1,0 +1,17 @@
+# Exact 15-Step Build Roadmap
+
+1. [Windows security event generation](../docs/01-windows-security-event-generation.md)
+2. [Wazuh agent → manager ingestion](../docs/02-agent-manager-ingestion.md)
+3. [4625 failed-login detection](../docs/03-4625-detection.md)
+4. [Alert investigation](../docs/04-alert-investigation.md)
+5. [MITRE ATT&CK mapping](../docs/05-mitre-mapping.md)
+6. [Custom Wazuh rule concept](../docs/06-custom-rule-concept.md)
+7. [Brute-force detection concept](../docs/07-bruteforce-concept.md)
+8. [FIM configuration](../docs/08-fim-configuration.md)
+9. [FIM investigation](../docs/09-fim-investigation.md)
+10. [Suspicious PowerShell detection](../docs/10-powershell-suspicious-activity.md)
+11. [Process/security event investigation](../docs/11-process-security-investigation.md)
+12. [MITRE ATT&CK investigation workflow](../docs/12-mitre-investigation-workflow.md)
+13. [SOC incident case/report](../docs/13-soc-incident-case.md)
+14. [GitHub documentation](../docs/14-github-documentation.md)
+15. [Final portfolio project](../docs/15-final-portfolio.md)

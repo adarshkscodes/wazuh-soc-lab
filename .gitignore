@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+.env.*
+
+# Raw logs / captures
+*.log
+*.evtx
+*.pcap
+*.pcapng
+archives.json
+archives.log
